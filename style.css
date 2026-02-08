@@ -3,4 +3,34 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
+}
+.img-logo{
+    width: 130px;
+    height: 130px;
+    border-radius: 100px;
+    margin-left: 85%;
+    border: 100%;
+}
+
+body{
+    background-image: url("imagens/TORRE_DE_LOS_TITANES.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 35%;
+    right: 74%;
+
+}
+
+#titulo{
+    color: white;
+    position: absolute;
+    top: 40%;
+    right: 50%;
+    font-size: 130px;
 }
