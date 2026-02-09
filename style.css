@@ -9,7 +9,7 @@
     width: 130px;
     height: 130px;
     border-radius: 100px;
-    margin-left: 85%;
+    margin-left: 89%;
     border: 100%;
 }
 
@@ -33,4 +33,14 @@ h2{
     top: 40%;
     right: 50%;
     font-size: 130px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+}
+
+a:hover{
+    cursor: pointer;
+    text-decoration: underline;
 }

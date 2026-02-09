@@ -1,0 +1,82 @@
+/*Página do Formulario*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: url("imagens/TORRE_DE_LOS_TITANES.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+    min-height: 100vh;
+}
+
+form{
+    background-color: grey;
+    padding: 30px;
+    width: 30%;
+    text-align: center;
+    position: absolute;
+    left: 270px;
+    top: 40%;
+    border-radius: 10px;
+}
+
+#login{
+    width: 80%;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+#telefone{
+    width: 80%;
+    border-radius: 5px;
+    padding: 3px;
+    margin: 8px;
+}
+
+#text{
+    width: 80%;
+    border-radius: 5px;
+    padding: 3px;
+    margin: 8px;
+}
+
+legend{
+    font-size: 25px;
+}
+
+#enviar{
+    margin: 4px;
+    padding: 2px;
+    width: 100px;
+    color: white;
+    background-color: cornflowerblue;
+}
+
+#Cancelar{
+    margin: 4px;
+    padding: 2px;
+    width: 100px;
+    color: white;
+    background-color: cornflowerblue;
+}
+
+#enviar, #Cancelar:hover{
+    cursor: pointer;
+}
+
+legend{
+    color: white;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 32%;
+    right: 61%;
+}
