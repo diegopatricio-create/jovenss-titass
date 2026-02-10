@@ -5,6 +5,15 @@
     padding: 0;
 }
 
+#topo a{
+    color: rgb(0, 153, 255);
+    text-decoration: none;
+}
+
+#topo a:hover{
+    text-decoration: underline;
+}
+
 body{
     background-color: black;
     margin: 0;
