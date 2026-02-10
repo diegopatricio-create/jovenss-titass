@@ -51,3 +51,28 @@ a:hover{
     cursor: pointer;
     text-decoration: underline;
 }
+
+.item-conosco{
+    width: 50%;
+    position: relative;
+    left: 44%;
+}
+
+.formulario-titan{
+    width: 30%;
+    position: relative;
+    left: 5%;
+    top: 150px;
+}
+
+#lista{
+    list-style: none;
+}
+
+#link{
+    color: rgb(0, 0, 0);
+}
+
+#lista-mutano{
+    list-style: NONE;
+}
